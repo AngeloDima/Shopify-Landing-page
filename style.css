@@ -11,13 +11,7 @@
     margin: auto;
 }
 
-#Conteiner-1content{
-    width: 60%;
-    height: 55%;
-    background-color: green;
-    margin: auto;
-    
-}
+
 
 /* ------Logo------ */
 
@@ -33,3 +27,29 @@
 
 
 /* ------Logo end------ */
+
+
+#Conteiner-1content{
+    width: 51%;
+    height: 60%;
+    background-color: green;
+    margin: auto;
+    
+}
+
+#Conteiner-1content h1{
+    color: white;
+    font-size: 5rem;
+    font-family: 'Roboto', sans-serif;
+
+    text-align: center;
+}
+
+#Conteiner-1content p{
+    color: white;
+    font-size: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+
+    text-align: center;
+}
