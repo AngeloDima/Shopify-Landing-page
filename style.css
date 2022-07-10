@@ -68,16 +68,22 @@
 }
 
 #Bottone1 input{
-    padding: 20px 162px 20px 10px;
+    padding: 20px 148px 20px 10px;
     border-radius: 6px;
     border: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
 }
 
 #Bottone2 input{
-    padding: 20px 25px 20px 25px;
+    padding: 20px 10px 20px 10px;
     border: none;
     border-radius: 6px;
     margin-left: 4%;
+    background-color: #008060;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
 }
 
 #Conteiner-2content p{
