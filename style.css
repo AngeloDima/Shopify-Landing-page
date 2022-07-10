@@ -103,7 +103,7 @@
 /* FINE contenuto secondo conteiner content FINE */
 
 
-
+/*contenuto terzo conteiner content  */
 #Sfondo1{
     width: 63%;
     height: 56%;
@@ -114,7 +114,7 @@
 }
 
 
-#Conteiner-4content{
+#Conteiner-3content{
     width: 60%;
     height: 20%;
     margin: auto;
@@ -137,4 +137,25 @@
 .Elementi p{
     font-size: 1rem;
     font-family: 'Roboto', sans-serif;
+}
+
+/* FINE contenuto terzo conteiner content FINE */
+
+
+#Conteiner-4content{
+    width: 60%;
+    height: 13%;
+    margin: auto;
+    border-top: 1px solid #0000005c;
+    border-bottom: 1px solid #0000005c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+}
+
+#Conteiner-4content img{
+    width: 8%;
+    height: 20%;
+    margin: 0px 16px;
 }
