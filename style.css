@@ -189,3 +189,68 @@
 #Conteiner-5content > input{
     padding: 5px;
 }
+
+
+#Bottone-finale{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+
+#Bottone-finale input{
+    padding: 20px 50px 20px 50px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: white;
+    background-color: #008060;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 3px 4px 8px 0px #0000003b;
+}
+
+
+#banner-finale{
+    width: 85vw;
+    height: 32vh;
+    background-color: #0f2d25;
+    margin:  100px auto 0px;
+    display: flex;
+
+}
+
+
+
+
+#Conteiner-banner{
+    width: 80vw;
+    height: 35vh;
+    background-color: #0f2d25;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+#Sinistra{
+    width: 40%;
+    height: 70%;
+    background-color: #008060;
+    margin-left: 5%;
+}
+
+#Destra{
+    width: 40%;
+    height: 70%;
+    background-color: #008060;
+    margin-right: 5%;
+}
+
+
+#Termini-info{
+    width: 85vw;
+    height: 5vh;
+    background-color: azure;
+}
