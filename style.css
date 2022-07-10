@@ -4,3 +4,32 @@
     margin: 0;
 }
 
+#Conteiner-principale{
+    width: 85vw;
+    height: 100vh;
+    background-color: greenyellow;
+    margin: auto;
+}
+
+#Conteiner-1content{
+    width: 60%;
+    height: 55%;
+    background-color: green;
+    margin: auto;
+    
+}
+
+/* ------Logo------ */
+
+#Logo{
+    display: flex;
+    justify-content: center;
+}
+
+#Logo > img{
+    max-width: 150px;
+    margin: 12px;
+}
+
+
+/* ------Logo end------ */
